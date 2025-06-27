@@ -1,0 +1,151 @@
+﻿/* General body styles for a clean foundation if not already set */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; /* Or a custom font, see notes below */
+    color: #333; /* Darker text for better contrast */
+}
+
+/* Account Container - Background & Centering */
+.account-container {
+    background-image: url('/images/snake.png');
+    background-size: cover; /* Ensures the image covers the entire container */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Changed to no-repeat for a cleaner look unless you specifically need repeating */
+    /* If your snake.png is designed to repeat, then keep 'repeat-y' or 'repeat' as needed.
+       For a single, impactful background image, 'no-repeat' and 'cover' are best. */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Ensures it takes full viewport height */
+    padding: 2rem 0; /* Vertical padding */
+    /* ORIGINALITY ADDITIONS FOR CONTAINER: */
+    /* Add a subtle overlay for better text readability and visual depth */
+    position: relative; /* Needed for pseudo-element positioning */
+    overflow: hidden; /* Ensures overlay doesn't spill out */
+}
+
+    /* Pseudo-element for a subtle background overlay */
+    .account-container::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.2); /* Semi-transparent black overlay */
+        backdrop-filter: blur(2px); /* Subtle blur to make background less distracting, if supported */
+        z-index: 0; /* Behind the content */
+    }
+
+/* Account Box - The Login Form Container */
+.account-box {
+    background-color: rgba(255, 255, 255, 0.95); /* Slightly less opaque for a 'frosted glass' effect, or keep 0.9 if you prefer */
+    padding: 40px; /* Increased padding for more breathing room */
+    border-radius: 15px; /* More rounded corners for a softer, modern look */
+    max-width: 450px; /* Slightly narrower to emphasize content */
+    width: 90%; /* Responsive width */
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3); /* Stronger, more modern shadow for depth */
+    z-index: 1; /* Above the background overlay */
+    position: relative; /* For proper z-indexing */
+    border: 1px solid rgba(255, 255, 255, 0.5); /* Subtle white border for more defined edge */
+    transition: transform 0.3s ease-in-out; /* Add a subtle hover effect (see below) */
+}
+
+    /* Hover effect for the login box - adds a subtle touch of originality */
+    .account-box:hover {
+        transform: translateY(-5px); /* Lifts the box slightly on hover */
+    }
+
+
+    /* Form Elements - Modernizing Inputs and Labels */
+    .account-box h2 {
+        font-family: 'Montserrat', sans-serif; /* Or another distinctive font */
+        font-size: 2.5rem; /* Larger heading */
+        margin-bottom: 2rem; /* More space below heading */
+        color: #2c3e50; /* A darker, richer grey */
+        letter-spacing: 1px; /* Subtle spacing for titles */
+    }
+
+    .account-box .form-label {
+        font-weight: 600; /* Bolder labels */
+        color: #555;
+        margin-bottom: 0.5rem; /* Space between label and input */
+        font-size: 0.95rem; /* Slightly smaller or adjusted font size for labels */
+    }
+
+    .account-box .form-control {
+        border: 1px solid #ccc; /* Lighter, softer border */
+        border-radius: 8px; /* Slightly more rounded inputs */
+        padding: 0.8rem 1rem; /* More padding inside inputs */
+        font-size: 1rem;
+        transition: border-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    }
+
+        .account-box .form-control:focus {
+            border-color: #007bff; /* Standard blue, or choose an accent color */
+            box-shadow: 0 0 0 0.25rem rgba(0, 123, 255, 0.25); /* Subtle glow on focus */
+            outline: none; /* Remove default outline */
+        }
+
+    /* Validation text */
+    .account-box .text-danger {
+        font-size: 0.85rem;
+        margin-top: 0.25rem;
+        display: block; /* Ensure it takes its own line */
+    }
+
+    /* Remember Me Checkbox */
+    .account-box .form-check-label {
+        font-size: 0.95rem;
+        color: #666;
+    }
+
+    /* Submit Button */
+    .account-box .btn-success {
+        background-color: #28a745; /* Green, but you could change this */
+        border-color: #28a745;
+        padding: 0.9rem 1.5rem; /* More substantial button */
+        font-size: 1.1rem;
+        border-radius: 8px; /* Consistent rounded corners */
+        letter-spacing: 0.5px;
+        transition: background-color 0.3s ease-in-out, transform 0.1s ease-in-out;
+    }
+
+        .account-box .btn-success:hover {
+            background-color: #218838; /* Darker green on hover */
+            transform: translateY(-2px); /* Slight lift on hover */
+        }
+
+    /* Back Link */
+    .account-box .text-decoration-none {
+        color: #007bff; /* Bootstrap primary blue, or your accent color */
+        font-size: 0.95rem;
+        margin-top: 1.5rem; /* More space above */
+        display: inline-block; /* Ensure margin top works */
+        transition: color 0.2s ease-in-out;
+    }
+
+        .account-box .text-decoration-none:hover {
+            color: #0056b3; /* Darker blue on hover */
+            text-decoration: underline !important; /* Ensure underline on hover */
+        }
+
+/* Accent Color (Optional, but recommended for more originality) */
+/* You can define a custom accent color variable or just use it directly. */
+/* For example, if you want a subtle deep purple accent: */
+/*
+.account-box .form-control:focus,
+.account-box .text-decoration-none {
+    border-color: #6f42c1;
+    box-shadow: 0 0 0 0.25rem rgba(111, 66, 193, 0.25);
+    color: #6f42c1;
+}
+.account-box .btn-success {
+    background-color: #6f42c1;
+    border-color: #6f42c1;
+}
+.account-box .btn-success:hover {
+    background-color: #5a359e;
+}
+*/
