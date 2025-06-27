@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "W4KxX0lcmTOUzBA2eKHmZNOZB9SrJDj5Iwsbnnrcn28=",
+  "Hash": "jHBWtP/0sf0/AUCEbufrFjeCeplhUKPX9iGCjXEAhQ8=",
   "Source": "Snake",
   "BasePath": "_content/Snake",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Snake\\wwwroot",
       "Source": "Snake",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Snake.styles.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Snake.styles.css",
       "SourceId": "Snake",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Snake",
       "RelativePath": "Snake#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "I8Prg3r70W6upFsc3GIQvZBaVtxwqmJmuk/6qc4Hdzo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Robin\\source\\repos\\Snake\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Snake.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Snake.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Snake.bundle.scp.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Snake.bundle.scp.css",
       "SourceId": "Snake",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Snake",
       "RelativePath": "Snake#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "I8Prg3r70W6upFsc3GIQvZBaVtxwqmJmuk/6qc4Hdzo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Robin\\source\\repos\\Snake\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Snake.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Snake.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\css\\account.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\css\\account.css",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "css/account#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -73,17 +73,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wpm98izjxk",
-      "Integrity": "RFuyDJ9Z171s07arZw3LJHFhaJJupAbRsG73wxt2gqY=",
+      "Fingerprint": "oidh3nih48",
+      "Integrity": "sF1D4m9yf0FlH7L7npbPzNQupgN5V+kK6za1bWA1rxQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\account.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\css\\site.css",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -94,17 +94,17 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "c2tiyv64ts",
-      "Integrity": "pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=",
+      "Fingerprint": "ynbkcdwn7w",
+      "Integrity": "8ueyj0WAkd6yEPlh7Hr6tv6M2VoRrj0T9ZctxCuZki8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\favicon.ico",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -122,10 +122,136 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\images\\snake.png",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\Gemini_Generated_Image_uppjiiuppjiiuppj.png",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
+      "BasePath": "_content/Snake",
+      "RelativePath": "images/Gemini_Generated_Image_uppjiiuppjiiuppj#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j2pqn0hdi5",
+      "Integrity": "a8gfpc7gO2FzfY3ZmrcpTJTv6Q145h6H0jcaAn05/Rg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Gemini_Generated_Image_uppjiiuppjiiuppj.png"
+    },
+    {
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\Gemini_Generated_Image_y0ma78y0ma78y0ma.png",
+      "SourceId": "Snake",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
+      "BasePath": "_content/Snake",
+      "RelativePath": "images/Gemini_Generated_Image_y0ma78y0ma78y0ma#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wrs3eoqw17",
+      "Integrity": "lH26dEAw24qkaIGMKsm340bj1bMVI8YDlcmlvVmjbpA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Gemini_Generated_Image_y0ma78y0ma78y0ma.png"
+    },
+    {
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\infinite-infinite-snake.gif",
+      "SourceId": "Snake",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
+      "BasePath": "_content/Snake",
+      "RelativePath": "images/infinite-infinite-snake#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g4i9cwg4s5",
+      "Integrity": "AND4iayy+gF57Vd6x2iHPWYg3fhpjjI6MEn40pm3VLA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\infinite-infinite-snake.gif"
+    },
+    {
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\Login-3--Streamline-Ultimate.png",
+      "SourceId": "Snake",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
+      "BasePath": "_content/Snake",
+      "RelativePath": "images/Login-3--Streamline-Ultimate#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hea95c40w2",
+      "Integrity": "6bEKpAJRgUhDQkfZ8DMaM+FICP0CQiX4uIOejRD5FGo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Login-3--Streamline-Ultimate.png"
+    },
+    {
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\Logout-2--Streamline-Ultimate.png",
+      "SourceId": "Snake",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
+      "BasePath": "_content/Snake",
+      "RelativePath": "images/Logout-2--Streamline-Ultimate#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "12bbj1f2rk",
+      "Integrity": "R+z8rO8CozHxqAeqBU6W+S7yvl8E7byAfUJd/1KRwOw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Logout-2--Streamline-Ultimate.png"
+    },
+    {
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\registration-1-48.png",
+      "SourceId": "Snake",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
+      "BasePath": "_content/Snake",
+      "RelativePath": "images/registration-1-48#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "syduxhfgiz",
+      "Integrity": "NDec/h3qissONlvqZ7mWfWIc0UHu+mCsf7CjOh4jwAQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\registration-1-48.png"
+    },
+    {
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\snake.png",
+      "SourceId": "Snake",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "images/snake#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +269,199 @@
       "OriginalItemSpec": "wwwroot\\images\\snake.png"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\snaked.png",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
+      "BasePath": "_content/Snake",
+      "RelativePath": "images/snaked#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3wvdunifg5",
+      "Integrity": "s1zIFETQ/z5o+nGSQiUrTzlRpT8Q6JJLlaHIiCLxGEA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\snaked.png"
+    },
+    {
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\snakide.png",
+      "SourceId": "Snake",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
+      "BasePath": "_content/Snake",
+      "RelativePath": "images/snakide#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t8s5o58cpb",
+      "Integrity": "wxUXDcvPqnS5WGDCZ95HX+elhszjgeykmhWpCRGzlBE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\snakide.png"
+    },
+    {
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\snako.png",
+      "SourceId": "Snake",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
+      "BasePath": "_content/Snake",
+      "RelativePath": "images/snako#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zg55f0eqb5",
+      "Integrity": "83mYxNpkci5m6RjLukJk8FYzZg1l6reHFQxJBl4doJA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\snako.png"
+    },
+    {
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\snakuid.png",
+      "SourceId": "Snake",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
+      "BasePath": "_content/Snake",
+      "RelativePath": "images/snakuid#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y1whwxj1aw",
+      "Integrity": "hnBWjqJRoa5inx+O8QfOm5QYCUfxsu5pDRMc1XeJKXQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\snakuid.png"
+    },
+    {
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\snaky.png",
+      "SourceId": "Snake",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
+      "BasePath": "_content/Snake",
+      "RelativePath": "images/snaky#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6t10nbzj2u",
+      "Integrity": "1oM13nToLAPbqXMWcPGMQzl4i2GhA0HSgjdTvX8kRK0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\snaky.png"
+    },
+    {
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\sneakeye.png",
+      "SourceId": "Snake",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
+      "BasePath": "_content/Snake",
+      "RelativePath": "images/sneakeye#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "otyu0bg7b0",
+      "Integrity": "zNfasDLB5Gwzt+RK2aJRS4/UIcVhkys21jky2MrSjTI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sneakeye.png"
+    },
+    {
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\sneakus.png",
+      "SourceId": "Snake",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
+      "BasePath": "_content/Snake",
+      "RelativePath": "images/sneakus#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tldh0l7cfu",
+      "Integrity": "IUMn93GLqqRWvx1XMfoa1vFpkuS7LntP+QmGbWa+Oyg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sneakus.png"
+    },
+    {
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\unnamed.png",
+      "SourceId": "Snake",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
+      "BasePath": "_content/Snake",
+      "RelativePath": "images/unnamed#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fm0zcjwh25",
+      "Integrity": "5+UgDmoRnJNkPNPgAQCjIz4W4C1XxbUHb/zpS+lbBFQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\unnamed.png"
+    },
+    {
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\zero-point-zeropoint.gif",
+      "SourceId": "Snake",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
+      "BasePath": "_content/Snake",
+      "RelativePath": "images/zero-point-zeropoint#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tog2nzkahj",
+      "Integrity": "A5zDZznGl76kyM+AR+THGzZOYU/OEi2jtaMVaYJ20Q0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\zero-point-zeropoint.gif"
+    },
+    {
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\js\\site.js",
+      "SourceId": "Snake",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -164,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -185,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -206,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -227,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -248,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -290,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -332,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -353,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -374,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -395,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -416,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -437,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -458,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -479,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -500,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -521,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -542,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -563,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -584,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -605,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -626,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -647,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -668,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -689,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -710,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -731,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -752,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -773,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -794,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -815,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -836,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -857,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -878,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -899,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -920,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -941,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -962,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -983,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1004,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1025,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1046,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1067,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1088,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1109,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1130,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1151,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1172,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1193,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1214,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1235,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1256,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1277,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1298,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1319,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1340,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Snake",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\",
       "BasePath": "_content/Snake",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1364,7 +1679,7 @@
   "Endpoints": [
     {
       "Route": "css/account.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\css\\account.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\css\\account.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1373,7 +1688,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6126"
+          "Value": "6085"
         },
         {
           "Name": "Content-Type",
@@ -1381,11 +1696,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RFuyDJ9Z171s07arZw3LJHFhaJJupAbRsG73wxt2gqY=\""
+          "Value": "\"sF1D4m9yf0FlH7L7npbPzNQupgN5V+kK6za1bWA1rxQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Jun 2025 13:39:44 GMT"
+          "Value": "Fri, 27 Jun 2025 18:39:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1395,13 +1710,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-RFuyDJ9Z171s07arZw3LJHFhaJJupAbRsG73wxt2gqY="
+          "Value": "sha256-sF1D4m9yf0FlH7L7npbPzNQupgN5V+kK6za1bWA1rxQ="
         }
       ]
     },
     {
-      "Route": "css/account.wpm98izjxk.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\css\\account.css",
+      "Route": "css/account.oidh3nih48.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\css\\account.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1410,7 +1725,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6126"
+          "Value": "6085"
         },
         {
           "Name": "Content-Type",
@@ -1418,11 +1733,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"RFuyDJ9Z171s07arZw3LJHFhaJJupAbRsG73wxt2gqY=\""
+          "Value": "\"sF1D4m9yf0FlH7L7npbPzNQupgN5V+kK6za1bWA1rxQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 23 Jun 2025 13:39:44 GMT"
+          "Value": "Fri, 27 Jun 2025 18:39:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1432,7 +1747,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wpm98izjxk"
+          "Value": "oidh3nih48"
         },
         {
           "Name": "label",
@@ -1440,58 +1755,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-RFuyDJ9Z171s07arZw3LJHFhaJJupAbRsG73wxt2gqY="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.c2tiyv64ts.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "362"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 22 Jun 2025 09:48:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "c2tiyv64ts"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-sF1D4m9yf0FlH7L7npbPzNQupgN5V+kK6za1bWA1rxQ="
         }
       ]
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1500,7 +1770,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "362"
+          "Value": "21889"
         },
         {
           "Name": "Content-Type",
@@ -1508,11 +1778,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0=\""
+          "Value": "\"8ueyj0WAkd6yEPlh7Hr6tv6M2VoRrj0T9ZctxCuZki8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 22 Jun 2025 09:48:52 GMT"
+          "Value": "Fri, 27 Jun 2025 18:45:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1522,13 +1792,58 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+          "Value": "sha256-8ueyj0WAkd6yEPlh7Hr6tv6M2VoRrj0T9ZctxCuZki8="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ynbkcdwn7w.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21889"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8ueyj0WAkd6yEPlh7Hr6tv6M2VoRrj0T9ZctxCuZki8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 18:45:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ynbkcdwn7w"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8ueyj0WAkd6yEPlh7Hr6tv6M2VoRrj0T9ZctxCuZki8="
         }
       ]
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1573,7 +1888,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1609,8 +1924,500 @@
       ]
     },
     {
+      "Route": "images/Gemini_Generated_Image_uppjiiuppjiiuppj.j2pqn0hdi5.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\Gemini_Generated_Image_uppjiiuppjiiuppj.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3456148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a8gfpc7gO2FzfY3ZmrcpTJTv6Q145h6H0jcaAn05/Rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 12:16:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j2pqn0hdi5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Gemini_Generated_Image_uppjiiuppjiiuppj.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a8gfpc7gO2FzfY3ZmrcpTJTv6Q145h6H0jcaAn05/Rg="
+        }
+      ]
+    },
+    {
+      "Route": "images/Gemini_Generated_Image_uppjiiuppjiiuppj.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\Gemini_Generated_Image_uppjiiuppjiiuppj.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3456148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a8gfpc7gO2FzfY3ZmrcpTJTv6Q145h6H0jcaAn05/Rg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 12:16:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a8gfpc7gO2FzfY3ZmrcpTJTv6Q145h6H0jcaAn05/Rg="
+        }
+      ]
+    },
+    {
+      "Route": "images/Gemini_Generated_Image_y0ma78y0ma78y0ma.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\Gemini_Generated_Image_y0ma78y0ma78y0ma.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2728533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lH26dEAw24qkaIGMKsm340bj1bMVI8YDlcmlvVmjbpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 12:18:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lH26dEAw24qkaIGMKsm340bj1bMVI8YDlcmlvVmjbpA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Gemini_Generated_Image_y0ma78y0ma78y0ma.wrs3eoqw17.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\Gemini_Generated_Image_y0ma78y0ma78y0ma.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2728533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lH26dEAw24qkaIGMKsm340bj1bMVI8YDlcmlvVmjbpA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 12:18:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wrs3eoqw17"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Gemini_Generated_Image_y0ma78y0ma78y0ma.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lH26dEAw24qkaIGMKsm340bj1bMVI8YDlcmlvVmjbpA="
+        }
+      ]
+    },
+    {
+      "Route": "images/infinite-infinite-snake.g4i9cwg4s5.gif",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\infinite-infinite-snake.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AND4iayy+gF57Vd6x2iHPWYg3fhpjjI6MEn40pm3VLA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 11:55:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g4i9cwg4s5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/infinite-infinite-snake.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AND4iayy+gF57Vd6x2iHPWYg3fhpjjI6MEn40pm3VLA="
+        }
+      ]
+    },
+    {
+      "Route": "images/infinite-infinite-snake.gif",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\infinite-infinite-snake.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AND4iayy+gF57Vd6x2iHPWYg3fhpjjI6MEn40pm3VLA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 11:55:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AND4iayy+gF57Vd6x2iHPWYg3fhpjjI6MEn40pm3VLA="
+        }
+      ]
+    },
+    {
+      "Route": "images/Login-3--Streamline-Ultimate.hea95c40w2.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\Login-3--Streamline-Ultimate.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6bEKpAJRgUhDQkfZ8DMaM+FICP0CQiX4uIOejRD5FGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 15:14:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hea95c40w2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Login-3--Streamline-Ultimate.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6bEKpAJRgUhDQkfZ8DMaM+FICP0CQiX4uIOejRD5FGo="
+        }
+      ]
+    },
+    {
+      "Route": "images/Login-3--Streamline-Ultimate.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\Login-3--Streamline-Ultimate.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6bEKpAJRgUhDQkfZ8DMaM+FICP0CQiX4uIOejRD5FGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 15:14:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6bEKpAJRgUhDQkfZ8DMaM+FICP0CQiX4uIOejRD5FGo="
+        }
+      ]
+    },
+    {
+      "Route": "images/Logout-2--Streamline-Ultimate.12bbj1f2rk.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\Logout-2--Streamline-Ultimate.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "573"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R+z8rO8CozHxqAeqBU6W+S7yvl8E7byAfUJd/1KRwOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 15:14:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "12bbj1f2rk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Logout-2--Streamline-Ultimate.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R+z8rO8CozHxqAeqBU6W+S7yvl8E7byAfUJd/1KRwOw="
+        }
+      ]
+    },
+    {
+      "Route": "images/Logout-2--Streamline-Ultimate.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\Logout-2--Streamline-Ultimate.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "573"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R+z8rO8CozHxqAeqBU6W+S7yvl8E7byAfUJd/1KRwOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 15:14:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R+z8rO8CozHxqAeqBU6W+S7yvl8E7byAfUJd/1KRwOw="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration-1-48.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\registration-1-48.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NDec/h3qissONlvqZ7mWfWIc0UHu+mCsf7CjOh4jwAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 15:30:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NDec/h3qissONlvqZ7mWfWIc0UHu+mCsf7CjOh4jwAQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/registration-1-48.syduxhfgiz.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\registration-1-48.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NDec/h3qissONlvqZ7mWfWIc0UHu+mCsf7CjOh4jwAQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 15:30:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "syduxhfgiz"
+        },
+        {
+          "Name": "label",
+          "Value": "images/registration-1-48.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NDec/h3qissONlvqZ7mWfWIc0UHu+mCsf7CjOh4jwAQ="
+        }
+      ]
+    },
+    {
       "Route": "images/snake.png",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\images\\snake.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\snake.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1647,7 +2454,7 @@
     },
     {
       "Route": "images/snake.r8ussaandr.png",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\images\\snake.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\snake.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1691,8 +2498,746 @@
       ]
     },
     {
+      "Route": "images/snaked.3wvdunifg5.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\snaked.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3464877"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s1zIFETQ/z5o+nGSQiUrTzlRpT8Q6JJLlaHIiCLxGEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 12:20:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3wvdunifg5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/snaked.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s1zIFETQ/z5o+nGSQiUrTzlRpT8Q6JJLlaHIiCLxGEA="
+        }
+      ]
+    },
+    {
+      "Route": "images/snaked.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\snaked.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3464877"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s1zIFETQ/z5o+nGSQiUrTzlRpT8Q6JJLlaHIiCLxGEA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 12:20:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s1zIFETQ/z5o+nGSQiUrTzlRpT8Q6JJLlaHIiCLxGEA="
+        }
+      ]
+    },
+    {
+      "Route": "images/snakide.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\snakide.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4574840"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wxUXDcvPqnS5WGDCZ95HX+elhszjgeykmhWpCRGzlBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 16:45:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wxUXDcvPqnS5WGDCZ95HX+elhszjgeykmhWpCRGzlBE="
+        }
+      ]
+    },
+    {
+      "Route": "images/snakide.t8s5o58cpb.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\snakide.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4574840"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wxUXDcvPqnS5WGDCZ95HX+elhszjgeykmhWpCRGzlBE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 16:45:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t8s5o58cpb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/snakide.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wxUXDcvPqnS5WGDCZ95HX+elhszjgeykmhWpCRGzlBE="
+        }
+      ]
+    },
+    {
+      "Route": "images/snako.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\snako.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6126147"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83mYxNpkci5m6RjLukJk8FYzZg1l6reHFQxJBl4doJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 16:55:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-83mYxNpkci5m6RjLukJk8FYzZg1l6reHFQxJBl4doJA="
+        }
+      ]
+    },
+    {
+      "Route": "images/snako.zg55f0eqb5.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\snako.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6126147"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"83mYxNpkci5m6RjLukJk8FYzZg1l6reHFQxJBl4doJA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 16:55:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zg55f0eqb5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/snako.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-83mYxNpkci5m6RjLukJk8FYzZg1l6reHFQxJBl4doJA="
+        }
+      ]
+    },
+    {
+      "Route": "images/snakuid.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\snakuid.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6620452"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hnBWjqJRoa5inx+O8QfOm5QYCUfxsu5pDRMc1XeJKXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 16:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hnBWjqJRoa5inx+O8QfOm5QYCUfxsu5pDRMc1XeJKXQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/snakuid.y1whwxj1aw.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\snakuid.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6620452"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hnBWjqJRoa5inx+O8QfOm5QYCUfxsu5pDRMc1XeJKXQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 16:57:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y1whwxj1aw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/snakuid.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hnBWjqJRoa5inx+O8QfOm5QYCUfxsu5pDRMc1XeJKXQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/snaky.6t10nbzj2u.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\snaky.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3288694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1oM13nToLAPbqXMWcPGMQzl4i2GhA0HSgjdTvX8kRK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 12:19:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6t10nbzj2u"
+        },
+        {
+          "Name": "label",
+          "Value": "images/snaky.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1oM13nToLAPbqXMWcPGMQzl4i2GhA0HSgjdTvX8kRK0="
+        }
+      ]
+    },
+    {
+      "Route": "images/snaky.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\snaky.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3288694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1oM13nToLAPbqXMWcPGMQzl4i2GhA0HSgjdTvX8kRK0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 12:19:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1oM13nToLAPbqXMWcPGMQzl4i2GhA0HSgjdTvX8kRK0="
+        }
+      ]
+    },
+    {
+      "Route": "images/sneakeye.otyu0bg7b0.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\sneakeye.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5169166"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zNfasDLB5Gwzt+RK2aJRS4/UIcVhkys21jky2MrSjTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 16:41:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "otyu0bg7b0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sneakeye.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zNfasDLB5Gwzt+RK2aJRS4/UIcVhkys21jky2MrSjTI="
+        }
+      ]
+    },
+    {
+      "Route": "images/sneakeye.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\sneakeye.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5169166"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zNfasDLB5Gwzt+RK2aJRS4/UIcVhkys21jky2MrSjTI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 16:41:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zNfasDLB5Gwzt+RK2aJRS4/UIcVhkys21jky2MrSjTI="
+        }
+      ]
+    },
+    {
+      "Route": "images/sneakus.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\sneakus.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4639078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IUMn93GLqqRWvx1XMfoa1vFpkuS7LntP+QmGbWa+Oyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 17:38:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IUMn93GLqqRWvx1XMfoa1vFpkuS7LntP+QmGbWa+Oyg="
+        }
+      ]
+    },
+    {
+      "Route": "images/sneakus.tldh0l7cfu.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\sneakus.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4639078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IUMn93GLqqRWvx1XMfoa1vFpkuS7LntP+QmGbWa+Oyg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 17:38:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tldh0l7cfu"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sneakus.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IUMn93GLqqRWvx1XMfoa1vFpkuS7LntP+QmGbWa+Oyg="
+        }
+      ]
+    },
+    {
+      "Route": "images/unnamed.fm0zcjwh25.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\unnamed.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "507943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5+UgDmoRnJNkPNPgAQCjIz4W4C1XxbUHb/zpS+lbBFQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 12:13:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fm0zcjwh25"
+        },
+        {
+          "Name": "label",
+          "Value": "images/unnamed.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5+UgDmoRnJNkPNPgAQCjIz4W4C1XxbUHb/zpS+lbBFQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/unnamed.png",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\unnamed.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "507943"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5+UgDmoRnJNkPNPgAQCjIz4W4C1XxbUHb/zpS+lbBFQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 23 Jun 2025 12:13:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5+UgDmoRnJNkPNPgAQCjIz4W4C1XxbUHb/zpS+lbBFQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/zero-point-zeropoint.gif",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\zero-point-zeropoint.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1456180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A5zDZznGl76kyM+AR+THGzZOYU/OEi2jtaMVaYJ20Q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 11:40:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-A5zDZznGl76kyM+AR+THGzZOYU/OEi2jtaMVaYJ20Q0="
+        }
+      ]
+    },
+    {
+      "Route": "images/zero-point-zeropoint.tog2nzkahj.gif",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\images\\zero-point-zeropoint.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1456180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"A5zDZznGl76kyM+AR+THGzZOYU/OEi2jtaMVaYJ20Q0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 27 Jun 2025 11:40:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tog2nzkahj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/zero-point-zeropoint.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-A5zDZznGl76kyM+AR+THGzZOYU/OEi2jtaMVaYJ20Q0="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1729,7 +3274,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1774,7 +3319,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1811,7 +3356,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1856,7 +3401,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1893,7 +3438,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1938,7 +3483,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1975,7 +3520,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2020,7 +3565,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2057,7 +3602,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2102,7 +3647,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2139,7 +3684,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2184,7 +3729,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2221,7 +3766,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2266,7 +3811,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2303,7 +3848,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2348,7 +3893,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2385,7 +3930,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2430,7 +3975,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2475,7 +4020,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2512,7 +4057,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2549,7 +4094,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2594,7 +4139,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2631,7 +4176,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2676,7 +4221,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2713,7 +4258,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2758,7 +4303,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2795,7 +4340,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2840,7 +4385,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2877,7 +4422,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2914,7 +4459,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2951,7 +4496,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2996,7 +4541,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3041,7 +4586,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3086,7 +4631,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3131,7 +4676,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3168,7 +4713,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3213,7 +4758,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3250,7 +4795,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3287,7 +4832,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3324,7 +4869,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3369,7 +4914,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3414,7 +4959,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3459,7 +5004,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3496,7 +5041,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3541,7 +5086,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3578,7 +5123,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3615,7 +5160,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3652,7 +5197,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3697,7 +5242,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3742,7 +5287,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3779,7 +5324,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3824,7 +5369,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3861,7 +5406,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3906,7 +5451,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3943,7 +5488,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3980,7 +5525,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4025,7 +5570,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4070,7 +5615,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4107,7 +5652,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4152,7 +5697,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4189,7 +5734,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4226,7 +5771,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4271,7 +5816,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4308,7 +5853,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4353,7 +5898,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4398,7 +5943,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4435,7 +5980,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4480,7 +6025,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4517,7 +6062,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4562,7 +6107,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4607,7 +6152,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4644,7 +6189,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4689,7 +6234,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4726,7 +6271,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4763,7 +6308,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4808,7 +6353,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4845,7 +6390,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4890,7 +6435,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4927,7 +6472,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4964,7 +6509,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5009,7 +6554,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5054,7 +6599,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5091,7 +6636,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5136,7 +6681,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5173,7 +6718,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5210,7 +6755,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5247,7 +6792,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5292,7 +6837,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5337,7 +6882,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5382,7 +6927,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5419,7 +6964,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5464,7 +7009,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5509,7 +7054,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5546,7 +7091,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5591,7 +7136,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5636,7 +7181,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5673,7 +7218,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5710,7 +7255,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5755,7 +7300,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5792,7 +7337,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5837,7 +7382,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5874,7 +7419,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5919,7 +7464,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5956,7 +7501,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5993,7 +7538,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6038,7 +7583,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6075,7 +7620,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6120,7 +7665,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6157,7 +7702,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6202,7 +7747,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6247,7 +7792,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6284,7 +7829,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6329,7 +7874,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6366,7 +7911,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6411,7 +7956,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6448,7 +7993,7 @@
     },
     {
       "Route": "Snake.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Snake.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Snake.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6485,7 +8030,7 @@
     },
     {
       "Route": "Snake.li4s3h35iu.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Snake.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Snake.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6530,7 +8075,7 @@
     },
     {
       "Route": "Snake.li4s3h35iu.styles.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Snake.styles.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Snake.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6575,7 +8120,7 @@
     },
     {
       "Route": "Snake.styles.css",
-      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Snake.styles.css",
+      "AssetFile": "C:\\Users\\Robin\\source\\repos\\Snake-Website.Net\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Snake.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

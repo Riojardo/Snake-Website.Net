@@ -1,22 +1,702 @@
+/*
+ * Original Website Stylesheet - Fancy and Creative Version (More Curved and Shiny)
+ *
+ * This stylesheet significantly enhances visual appeal with more pronounced
+ * curves, stronger gradients, refined shadows, and subtle shine effects
+ * for a truly modern, engaging, and polished user experience.
+ *
+ * Colors:
+ * --primary-color: A deep, calming blue for primary actions and accents.
+ * --secondary-color: A soft, complementary teal for secondary elements.
+ * --accent-color: A vibrant orange for highlights and interactive states.
+ * --text-color-dark: Dark grey for main text, ensuring readability.
+ * --text-color-light: Light grey for contrast on dark backgrounds.
+ * --background-light: A very light grey for main content areas.
+ * --background-dark: A dark charcoal for footers or distinct sections.
+ * --border-color: A subtle light grey for borders and separators.
+ * --glow-color: A vibrant, slightly transparent blue for focus/hover glows.
+ * --shine-color: A very light, transparent white for reflective effects.
+ */
+
+
+/* --- Base HTML and Body Styles --- */
+
 html {
-  font-size: 14px;
+    font-size: 14px;
+    position: relative;
+    width: 100%; /* Take full width */
+    height: 100%; /* Take full height */
+    font-family: 'Inter', sans-serif;
+    line-height: 1.8; /* Even more space for readability */
+    color: var(--text-color-dark);
+    background-color: var(--background-light);
+    background-repeat: no-repeat; /* Ensures the GIF does not tile/multiply */
+    background-size: cover; /* Scales the GIF to cover the entire background area */
+    background-position: center center; /* Centers the GIF in the background */
+    background-attachment: fixed; /* Keeps the GIF fixed as the user scrolls */
 }
 
 @media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
-
-.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
-}
-
-html {
-  position: relative;
-  min-height: 100%;
+    html {
+        font-size: 16px;
+    }
 }
 
 body {
-  margin-bottom: 60px;
+    font-family: "Inter", sans-serif;
+    margin: 0;
+    min-height: 100vh; /* Minimum height of 100% viewport height */
+    height: 35%; /* Specific height */
+    padding-bottom: 40px; /* Reduced space for a fixed footer */
+    -webkit-font-smoothing: antialiased; /* Font smoothing for Webkit browsers */
+    -moz-osx-font-smoothing: grayscale; /* Font smoothing for Firefox */
+    position: relative; /* Needed for the pseudo-element positioning */
+    color: #333;
+    /* The background image itself is now applied to the ::before pseudo-element */
+}
+
+    body::before {
+        content: '';
+        position: fixed; /* Use fixed to ensure it covers the whole viewport */
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-image: url('/images/sneakus.png'); /* The background image */
+        background-size: cover; /* Cover the entire viewport */
+        background-attachment: fixed; /* Keep background fixed while scrolling */
+        background-position: center center; /* Center the background image */
+        background-repeat: no-repeat; /* Do not repeat the background image */
+        filter: blur(0px); /* Apply a light blur effect here */
+        -webkit-filter: blur(0px); /* Safari compatibility */
+        z-index: -1; /* Puts the pseudo-element behind the content */
+    }
+
+/* --- Global Focus Styles (More Pronounced Glow) --- */
+
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    outline: none;
+    box-shadow: 0 0 0 0.2rem var(--background-light), /* Thicker white outline */
+    0 0 0 0.45rem var(--primary-color), /* Thicker primary color outline */
+    0 0 0 0.8rem var(--glow-color); /* Larger, brighter glow */
+}
+
+/* --- Typography --- */
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--text-color-dark);
+    margin-bottom: 1em;
+    font-weight: 1900; /* Even bolder headings */
+    line-height: 1.2;
+    /* More pronounced text shadow for a lifted, crisp effect */
+    text-shadow: 1.5px 1.5px 3px rgba(0, 0, 0, 0.15);
+}
+
+h1 {
+    margin-top: 0.5em;
+    font-size: 3em; /* Even larger heading */
+    letter-spacing: -0.04em; /* Tighter letter spacing */
+}
+
+.display-4 {
+    visibility: hidden;
+}
+
+h2 {
+    font-size: 2.8em;
+}
+
+h3 {
+    font-size: 2.2em;
+}
+
+h4 {
+    font-size: 1.9em;
+}
+
+h5 {
+    font-size: 1.6em;
+}
+
+h6 {
+    font-size: 1.3em;
+}
+
+.heading-container {
+    background-color: var(--background-transparent-light);  Semi-transparent background 
+    padding: 15px 25px;  Padding inside the container 
+    margin-bottom: 20px;  Space between containers 
+    border-radius: 10px;  Rounded corners 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);  Subtle shadow 
+    backdrop-filter: blur(2px);  Slight blur effect for modern look 
+    -webkit-backdrop-filter: blur(2px);  Safari compatibility 
+    max-width: 800px;  Max width for better readability on large screens 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    margin-bottom: 1.5em; /* More paragraph spacing */
+}
+
+a {
+    color: var(--primary-color);
+    text-decoration: none;
+    position: relative;
+    transition: color 0.3s ease-in-out, text-decoration 0.3s ease-in-out;
+}
+
+    a:hover {
+        color: var(--accent-color);
+        text-decoration: underline;
+    }
+
+    a.animated-link::after {
+        content: '';
+        position: absolute;
+        width: 0;
+        height: 3px; /* Thicker underline */
+        display: block;
+        margin-top: 6px; /* Lower position for underline */
+        right: 0;
+        background: var(--accent-color);
+        transition: width 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55); /* More bouncy transition */
+    }
+
+    a.animated-link:hover::after {
+        width: 100%;
+        left: 0;
+        background: var(--accent-color);
+    }
+
+/* --- General Buttons (existing .btn styles) --- */
+
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.95rem 2rem;
+    font-size: 1.1rem;
+    font-weight: 800;
+    line-height: 1.5;
+    border-radius: 1.2rem;
+    border: 1px solid transparent;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1.2);
+    box-shadow: 0 8px 18px -6px var(--shadow-medium), 0 4px 8px -3px var(--shadow-light);
+}
+
+    .btn::before {
+        content: '';
+        position: absolute;
+        top: 0; /* Changed to 0 for a more direct top-to-bottom shine */
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(120deg, transparent, var(--shine-color), transparent);
+        transition: left 0.7s ease; /* Adjusted timing */
+        transform: skewX(-20deg); /* Slightly less skew for general buttons */
+    }
+
+    .btn:hover::before {
+        left: 100%;
+    }
+
+.btn-primary {
+    color: var(--text-color-light);
+    background-image: linear-gradient(135deg, var(--gradient-start) 0%, var(--gradient-end) 100%);
+    border-color: var(--primary-color);
+    box-shadow: inset 0 1px 3px rgba(255, 255, 255, 0.2), inset 0 -1px 3px rgba(0, 0, 0, 0.1);
+}
+
+    .btn-primary:hover {
+        background-image: linear-gradient(135deg, var(--gradient-hover-start) 0%, var(--gradient-hover-end) 100%);
+        transform: translateY(-4px) scale(1.02); /* Adjusted for general buttons */
+        box-shadow: 0 10px 20px -5px var(--shadow-medium), 0 5px 10px -3px var(--shadow-light);
+    }
+
+    .btn-primary:active {
+        background-image: none;
+        background-color: var(--gradient-end);
+        transform: translateY(0);
+        box-shadow: inset 0 4px 8px rgba(0, 0, 0, 0.3);
+    }
+
+.btn-secondary {
+    color: var(--text-color-dark);
+    background-color: var(--background-light);
+    border-color: var(--border-color);
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.05), 0 3px 6px 0 var(--shadow-light);
+}
+
+    .btn-secondary:hover {
+        background-color: #EBF8FF;
+        border-color: var(--primary-color);
+        color: var(--primary-color);
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px -2px var(--shadow-medium);
+    }
+
+    .btn-secondary:active {
+        background-color: #D6E8FF;
+        transform: translateY(0);
+        box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+
+/* --- Forms --- */
+
+.form-group {
+    margin-bottom: 2rem;
+}
+
+.form-label {
+    display: block;
+    margin-bottom: 0.7rem;
+    font-weight: 700;
+    color: var(--text-color-dark);
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: 0.95rem 1.2rem;
+    font-size: 1.05rem;
+    line-height: 1.5;
+    color: var(--text-color-dark);
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 2px solid var(--border-color);
+    border-radius: 0.9rem;
+    transition: border-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+    .form-control:focus {
+        border-color: var(--primary-color);
+        box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1), 0 0 0 0.15rem var(--primary-color), 0 0 0 0.4rem var(--glow-color);
+    }
+
+.form-text {
+    font-size: 0.9em;
+    color: #6B7280;
+    margin-top: 0.4rem;
+}
+
+/* --- Navigation Bar (More Glassy, Elevated) --- */
+
+.navbar {
+    font-size: 18px;
+    /* Consolidated padding to reduce height and increase width */
+    padding: 0.75rem 3.5rem;
+    background-color: var(--glass-background);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    border-radius: 1.5rem; /* Applied universal border-radius for all corners */
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.navbar-brand {
+    /* Removed transform for better alignment with the GIF below it */
+    transform: none;
+    /* Added a margin-right to create space if other elements were to the right */
+    margin-right: 1rem;
+    font-size: 2em;
+    font-weight: 900;
+    text-decoration: none;
+    letter-spacing: -0.02em;
+    transition: color 0.3s ease-in-out, transform 0.2s ease-out;
+}
+
+.navbar-brand-gif {
+    display: block;
+    width: 60px;
+    height: auto;
+    /* Adjusted margins and removed transform for correct positioning directly below the brand */
+    margin-left: 0;
+    margin-top: -10px; /* Pulls it up closer to brand */
+    margin-bottom: 0;
+    transform: none;
+    position: relative;
+    top: 10px;
+}
+
+.navbar-brand:hover {
+    color: var(--accent-color);
+    transform: translateY(-2px);
+}
+
+.navbar-nav {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    /* Add space between the brand/gif and the navigation links */
+    margin-left: auto; /* Pushes nav-items to the right */
+}
+
+.nav-item {
+    margin-left: 2rem; /* Adjusted space between nav items */
+    display: flex; /* Make nav-item a flex container */
+    align-items: center; /* Vertically align items (text and image) */
+    gap: 0.5rem; /* Space between text and image */
+}
+
+.nav-link {
+    color: white; /* Explicitly set to white */
+    text-decoration: none;
+    padding: 0.3rem 0; /* Slightly reduced vertical padding to better align with icons */
+    font-weight: 700;
+    position: relative;
+    transition: color 0.3s ease-in-out;
+}
+
+/* Corrected PNG positioning */
+.navbar-link-login-png,
+.navbar-link-logout-png,
+.navbar-link-register-png {
+    height: 32px; /* Adjusted size for better visual balance */
+    width: 32px; /* Adjusted size for better visual balance */
+    margin: 0; /* Removed problematic negative margins */
+    transform: none; /* Removed problematic transforms */
+    display: block; /* Ensure it behaves as a block within flex */
+}
+/* Ensure the register icon is consistent */
+.navbar-link-register-png {
+    margin-left:-8px;
+    height: 52px;
+    width: 52px;
+}
+
+
+.nav-link::after {
+    content: '';
+    position: absolute;
+    bottom: -6px;
+    left: 50%;
+    width: 0;
+    height: 4px;
+    background-color: var(--accent-color);
+    transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    transform: translateX(-50%);
+    border-radius: 3px;
+}
+
+.nav-link:hover {
+    color: var(--accent-color);
+}
+
+    .nav-link:hover::after,
+    .nav-link.active::after {
+        width: 100%;
+    }
+
+
+/* Responsive Navbar Toggle (Enhanced for mobile) */
+@media (max-width: 767px) {
+    .navbar {
+        padding: 1rem 1.5rem; /* Adjusted mobile padding */
+        border-radius: 0;
+    }
+
+    .navbar-nav {
+        background-color: var(--glass-background);
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+        padding: 1.5rem 0;
+        border-radius: 1rem; /* Universal border-radius for mobile menu */
+        margin-left: 0; /* Remove auto margin on mobile */
+        width: 100%; /* Ensure it takes full width */
+    }
+
+    .nav-item {
+        margin: 0.8rem 0;
+        justify-content: center; /* Center items on mobile */
+    }
+
+    .nav-link {
+        padding: 0.6rem 1.5rem;
+    }
+
+        .nav-link::after {
+            bottom: -3px;
+            height: 3px;
+        }
+
+    .navbar-toggler {
+        display: block;
+        background: none;
+        border: 2px solid var(--border-color);
+        color: var(--text-color-light);
+        padding: 0.7rem 1rem;
+        border-radius: 0.75rem;
+        cursor: pointer;
+        transition: all 0.2s ease-in-out;
+    }
+
+        .navbar-toggler:hover {
+            background-color: rgba(255, 255, 255, 0.15);
+            border-color: var(--primary-color);
+        }
+}
+
+/* Hide toggler on larger screens */
+@media (min-width: 768px) {
+    .navbar-toggler {
+        display: none;
+    }
+}
+
+
+/* --- Utility Classes / General Containers --- */
+
+.container {
+    max-width: 1360px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.main-content {
+  
+    padding: 2rem 0;
+    flex-grow: 1;
+}
+
+/* --- Special "Get Started" Button Styling --- */
+
+/* Variables (ensure these are defined in your CSS, e.g., in :root) */
+:root {
+    --special-button-shadow-color: rgba(51, 7, 42, 0.753);
+    --text-color-light: white;
+    --neon-yellow-green: #dfff00;
+    --neon-yellow-green-bright: #efff00;
+    --neon-yellow-green-faint: #dfff0033;
+    --glow-width: 4px; /* Thickness of the glowing line around the button */
+    --snake-segment-length: 15%; /* Percentage of the total perimeter for one snake segment */
+    --full-glow-color: #dfff00; /* A strong color for the full border glow on hover */
+    --full-glow-shadow: 0 0 15px var(--full-glow-color), /* Stronger shadow for the full glow */
+    0 0 30px var(--full-glow-color), 0 0 45px var(--full-glow-color);
+}
+
+/* Wrapper for the special button to handle scaling and bottom shadow */
+.fancy-button-wrapper {
+    position: relative;
+    text-decoration: none;
+    transition: all 200ms ease;
+    display: inline-block;
+}
+
+    /* Bottom shadow effect */
+    .fancy-button-wrapper::after {
+        content: "";
+        display: block;
+        width: 60%;
+        height: 7px;
+        background: var(--special-button-shadow-color);
+        position: absolute;
+        top: 109%;
+        left: 50%;
+        transform: translateX(-50%);
+        filter: blur(6px);
+        opacity: 0;
+        transition: all 200ms ease;
+        z-index: 0;
+    }
+
+/* Inner container for overflow: hidden and border-radius */
+.fancy-button-inner-container {
+    position: relative;
+    overflow: hidden; /* Crucial: Hides parts of the moving gradient outside the border */
+    border-radius: 1.2rem;
+    display: block;
+    padding: var(--glow-width); /* Creates the visible 'track' for the glow effect */
+    background: transparent;
+    box-sizing: border-box; /* Padding is included in element's total width/height */
+    /* Add initial box-shadow for the full border glow on hover */
+    box-shadow: none; /* No initial full glow */
+    transition: box-shadow 300ms ease, background 300ms ease; /* Smooth transition for the full glow */
+}
+
+/* The actual button styling */
+.fancy-button-main {
+    color: var(--text-color-light);
+    font-weight: 800;
+    background: linear-gradient(178.4deg, #272f3b 4.8%, #161c2b 86.7%);
+    padding: 1.5rem 3rem; /* Slightly increased padding for a bigger button */
+    font-size: 1.4rem; /* Slightly increased font size for balance */
+    border-radius: calc(1.2rem - var(--glow-width));
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    display: block;
+    transition: all 200ms ease;
+    position: relative;
+    cursor: pointer;
+    z-index: 2;
+    /* Added for light elevation */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for elevation */
+}
+
+/* Hover effects for the wrapper */
+.fancy-button-wrapper:hover {
+    transform: scale(0.95);
+}
+
+    .fancy-button-wrapper:hover::after {
+        opacity: 1;
+    }
+
+/* Keyframes for the perimeter animation path */
+/* This animation simulates moving along the entire border perimeter */
+@keyframes PerimeterChase {
+    0% {
+        background-position: 0% 0%;
+    }
+
+    25% {
+        background-position: 100% 0%;
+    }
+
+    50% {
+        background-position: 100% 100%;
+    }
+
+    75% {
+        background-position: 0% 100%;
+    }
+
+    100% {
+        background-position: 0% 0%;
+    }
+}
+
+/* The first "Neon Snake" layer (::before) */
+.fancy-button-inner-container::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    background: linear-gradient( 45deg, transparent 0%, transparent calc(50% - var(--snake-segment-length) / 2), var(--neon-yellow-green-faint) calc(50% - var(--snake-segment-length) / 4), var(--neon-yellow-green-bright) 50%, var(--neon-yellow-green-faint) calc(50% + var(--snake-segment-length) / 4), transparent calc(50% + var(--snake-segment-length) / 2), transparent 100% );
+    background-size: 400% 400%;
+    background-repeat: no-repeat;
+    background-position: 0% 0%;
+    filter: blur(2px);
+    z-index: 1;
+    opacity: 1; /* Always visible */
+    animation: PerimeterChase 4s linear infinite; /* Always animating */
+}
+
+/* The second "Neon Snake" layer (::after - on the container) */
+.fancy-button-inner-container::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: inherit;
+    background: linear-gradient( 45deg, transparent 0%, transparent calc(50% - var(--snake-segment-length) / 2), var(--neon-yellow-green-faint) calc(50% - var(--snake-segment-length) / 4), var(--neon-yellow-green-bright) 50%, var(--neon-yellow-green-faint) calc(50% + var(--snake-segment-length) / 4), transparent calc(50% + var(--snake-segment-length) / 2), transparent 100% );
+    background-size: 400% 400%;
+    background-repeat: no-repeat;
+    background-position: 0% 0%;
+    filter: blur(2px);
+    z-index: 1;
+    opacity: 1; /* Always visible */
+    animation: PerimeterChase 4s linear infinite reverse;
+    animation-delay: calc(4s / 2);
+}
+
+/* Hover effects for the full border glow */
+.fancy-button-wrapper:hover .fancy-button-inner-container {
+    box-shadow: var(--full-glow-shadow); /* Apply the full glow shadow */
+    background: linear-gradient(178.4deg, var(--full-glow-color) 4.8%, var(--full-glow-color) 86.7%); /* Make the background match the glow */
+}
+
+
+/* --- Card/Section Styling (More Curved, Shinier, and Elevated) --- */
+.card {
+    background-color: #fff;
+    border-radius: 1.5rem; /* Much higher rounded corners for cards */
+    box-shadow: 0 15px 40px -10px var(--shadow-medium), /* Even deeper, multi-layered shadow */
+    0 6px 15px -5px var(--shadow-light);
+    padding: 2.5rem; /* More padding */
+    margin-bottom: 2.5rem; /* More margin */
+    transition: transform 0.4s cubic-bezier(0.25, 0.8, 0.25, 1.2), /* Bouncy transition */
+    box-shadow 0.4s cubic-bezier(0.25, 0.8, 0.25, 1.2);
+    border: 1px solid rgba(0, 0, 0, 0.05); /* Subtle inner border for crispness */
+    /* Inner light for a 'shiny' top edge */
+    box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.7), /* Top highlight */
+    0 15px 40px -10px var(--shadow-medium), 0 6px 15px -5px var(--shadow-light);
+}
+
+    .card:hover {
+        transform: translateY(-8px); /* More pronounced lift on hover */
+        box-shadow: 0 25px 60px -15px var(--shadow-medium), /* Even deeper shadow on hover */
+        0 10px 25px -8px var(--shadow-light);
+    }
+
+
+/* --- Footer (More Solid, Elevated) --- */
+
+.footer {
+    position:sticky;
+    bottom: 0;
+    width: 100%;
+    height: 40px; /* Must match body's padding-bottom */
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.95em; /* Slightly larger font */
+    box-shadow: 0 -6px 12px rgba(0, 0, 0, 0.3); /* Deeper shadow */
+    border-top: 2px solid rgba(255, 255, 255, 0.1); /* Thicker top border */
+}
+
+/* --- Responsive Adjustments --- */
+
+@media (max-width: 767px) {
+    h1 {
+        font-size: 2.8em;
+    }
+
+    h2 {
+        font-size: 2.2em;
+    }
+
+    .btn {
+        padding: 0.85rem 1.75rem;
+        font-size: 1rem;
+        border-radius: 1rem;
+    }
+
+    .navbar {
+        padding: 1rem 1.5rem;
+        border-radius: 0;
+    }
+
+    .container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .main-content {
+        padding: 3rem 0;
+    }
+
+    .card {
+        border-radius: 1.2rem; /* Slightly less curve on mobile for cards */
+        padding: 2rem;
+    }
 }
